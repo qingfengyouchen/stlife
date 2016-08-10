@@ -5,4 +5,4 @@
 * 微信公众号支付
 * memcache实现
 * 测试下pull request
-* 待研究
+
